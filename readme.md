@@ -58,7 +58,7 @@ CD into the main folder using your terminal. Type "node liri.js" into the comman
 
 ![Song](images/song.png)
 
-* node liri.js movie this `<movie name>`
+* node liri.js movie-this `<movie name>`
 
 ![Movie](images/movie.png)
 
