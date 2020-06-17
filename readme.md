@@ -18,14 +18,8 @@ Multiple node packages are required to use this app. They are listed below.
 
 ### INSTALLATION
 
-```
-npm install <package-name>
-```
+`npm install`
 
-I.E.
-```
-npm install node-spotify-api
-```
 ### PLEASE NOTE
 
 You will need to register with Spotify Developers for an API key in order to use the Spotify API. In addition, the key must be provided within a .env file contained in the main folder with the following format:
